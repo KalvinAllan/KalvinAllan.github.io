@@ -3,12 +3,23 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Write Title Here</title>
+<title>Tes</title>
 <link rel="stylesheet" href="turu.css">
-<style><!-- styles here --></style>
-<script src="script.js"></script>
-<script><!-- script here --></script>
+<link rel="stylesheet" href="dead.css">
+<style>
+  @media only screen and (max-width 600px){
+    h1{
+      color: green;
+    }
+  }
+  @media only screen and (min-width: 601px){
+    h1{
+      color: brown;
+    }
+  }
+  </style>
 </head>
 <body>
+  <h1>HELLO</h1>
 </body>
-</html>
+</html>  
