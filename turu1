@@ -1,11 +1,14 @@
-<link rel="stylesheet" media="(max-width: 640px)" href="max-640px.css">
-<link rel="stylesheet" media="(min-width: 640px)" href="min-640px.css">
-<link rel="stylesheet" media="(orientation: portrait)" href="turu.css">
-<link rel="stylesheet" media="(orientation: landscape)" href="dead.css">
-<style>
-  @media (min-width: 500px) and (max-width: 600px) {
-    h1 {
-      color: red;
-    }
-  }
-</style>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Write Title Here</title>
+<link rel="stylesheet" href="turu.css">
+<style><!-- styles here --></style>
+<script src="script.js"></script>
+<script><!-- script here --></script>
+</head>
+<body>
+</body>
+</html>
